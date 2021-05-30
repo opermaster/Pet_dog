@@ -8,6 +8,7 @@ display.set_caption("Pet_Dog")
 
 bcg=transform.scale(image.load("background.jpg"),(800,600))
 
+
 game=True
 clock=time.Clock()
 FPS=60
